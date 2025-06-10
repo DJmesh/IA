@@ -1,0 +1,10 @@
+{
+  "type": "image",
+  "original": "28154567480_efefd2b71b_b.jpg",
+  "annotated": "annotated.jpg",
+  "counts": {
+    "car": 14,
+    "truck": 1
+  },
+  "total": 15
+}

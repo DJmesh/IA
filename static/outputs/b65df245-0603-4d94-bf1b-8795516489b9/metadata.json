@@ -1,0 +1,17 @@
+{
+  "type": "video",
+  "original": "Carros esportivos - Balneário Camboriú Brasil 🇧🇷 Avenida Atlântica.mp4",
+  "annotated": "annotated.mp4",
+  "fps": 30.0,
+  "resolution": [
+    202,
+    360
+  ],
+  "counts": {
+    "car": 51,
+    "motorcycle": 2,
+    "bus": 2,
+    "truck": 10
+  },
+  "total": 65
+}
